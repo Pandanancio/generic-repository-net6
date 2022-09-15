@@ -53,8 +53,6 @@ namespace GenericRepository_NET6.Repositories
             _context.Set<T>().RemoveRange(entities);
             await _context.SaveChangesAsync();
         }
-
-
     }
 
 }
