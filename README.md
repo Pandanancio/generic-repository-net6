@@ -1,2 +1,2 @@
 # generic-repository-net6
-Generic Repository for C# .NET 6
+Simple CRUD with Generic Repository with C# in .NET 6
